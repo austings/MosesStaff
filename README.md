@@ -3,7 +3,7 @@
  
 https://youtu.be/Ikf-Rh1qqiE
 
-![moses](https://github.com/austings/MosesStaff/blob/master/moses.bmp)
+![moses]([https://github.com/austings/MosesStaff/blob/master/moses.bmp](https://raw.githubusercontent.com/austings/MosesStaff/main/moses.bmp?token=GHSAT0AAAAAACCIVMNCCZ6BGHNAX3WCIJJOZDDRVSQ))
 
 https://discord.gg/vU6HhaErzA
 
