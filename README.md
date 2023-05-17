@@ -3,7 +3,8 @@
  
 https://youtu.be/Ikf-Rh1qqiE
 
-![rdme](https://github.com/austings/MosesStaff/assets/16580820/dac7fe30-43e3-4a59-be93-5c99f4c99b27)
+![moises-commission](https://github.com/austings/MosesStaff/assets/16580820/452e0225-5870-446f-a06b-83a6c0f330da)
+
 
 
 https://discord.gg/vU6HhaErzA
